@@ -1,0 +1,194 @@
+﻿Discharge Petitions & Legislative Accountability in Michigan
+A Multi-Trigger Constitutional Calendaring Architecture 
+Preamble
+The failure of the legislative process to bring introduced bills to a floor vote has diminished the voice of Michigan’s citizens and local entities. This amendment establishes four independent triggers that compel timely floor votes without mandating passage, preserving legislative autonomy and ensuring fairness, transparency, and balance between rural and urban voices.
+Independent triggers (any one route compels a vote):
+1. Citizen petitions (4% statutory / 8% constitutional), or
+2. Municipal bucket — city/village councils and townships (1/3 statutory / 2/5 constitutional), or
+3. Schools bucket — school districts and ISDs (1/3 statutory / 2/5 constitutional), or
+4. Counties bucket — county commissions (1/3 statutory / 2/5 constitutional).
+These thresholds do not combine; each is an independent route to discharge.
+§54. Discharge Petitions by Citizens
+Mechanism. 
+A citizen-initiated discharge petition may be filed with the Secretary of State (SOS) requesting that a bill subject to Article IV, §26 be brought to a recorded yea/nay roll-call vote in its chamber of origin, consistent with chamber rules as of January 1, 2025. Triggers operate within the legislature’s procedural framework, preserving chamber autonomy (1). 
+Conditions.
+• Bill text must be publicly posted for at least 72 hours (no shell/placeholder bills) (3).
+• Debate and germane amendments may occur, but chamber rules may not extend the 30-session-day clock or block discharge (1).
+• Post-discharge, the bill must receive a recorded vote within the session, barring adjournment sine die.
+• Legislative discretion under Article IV, §16 is preserved (1).
+Thresholds.
+• Statutory bills: signatures ≥ 4% of votes cast in the most recent gubernatorial election.
+• Constitutional amendments: signatures ≥ 8% of votes cast in the most recent gubernatorial election.
+• Collection window: 270 calendar days.
+Verification & Safeguards.
+• Verified by the Secretary of State under MCL 168.476 within 30 session days (extendable by up to 5 for documented verification backlogs) with procedural parity cross-referenced to §§55 and 57. The SOS shall publish verification-capacity and audit-readiness plans within 90 days. If capacity is exceeded, the Board of State Canvassers assumes primary responsibility within 10 session days automatically and without further legislative action.
+• If high volume risks delays, SOS may request emergency verification funding through ordinary public appropriations or emergency administrative procedures, audited publicly within 5 session days. 
+• Fees shall cover only actual verification costs, capped at documented administrative expense and applied consistently across §§54–57 (3). 
+• Challenges capped at 1 per party, 10 total per bill; frivolous claims dismissed within 5 session days (4).
+• Funding disclosure: All petition or resolution financing (including in-kind and anonymous support) disclosed within 72 hours per MCL 169.201, in a public, searchable database; non-disclosure or false reports trigger automatic sanctions under MCL 600.2591, enforceable by SOS with expedited Court of Claims review.
+Follows-Intent Clause. 
+Petitions must align with the bill’s core subject, scope, or effect (objectively evidenced by the bill’s title, summary, and sponsor’s public record, e.g., filings or public statements), verified by SOS with a public audit trail (5). Substantive changes (e.g., shifting from education to transportation funding) pause discharge until re-attested within 5 session days. Clerical changes do not break intent. A 5-day public comment period follows certification.
+Fallback Clause. 
+Failure of citizen petitions does not affect triggers under §§55–57 (6).
+Bill Identity Across Terms. Petitions may be relinked to reintroduced bills with substantially the same intent, verified by SOS within 5 session days, subject to a 5-day public objection period (5).
+Discharge Target. 
+Forces discharge from committee to the floor calendar or prioritization within 30 session days.
+Chamber Sequencing. 
+Triggers apply to the chamber of origin. Upon passage, a new 30-session-day clock starts in the second chamber.
+Calendaring & Transparency. 
+Certified bills must be placed on the chamber calendar within 30 session days; otherwise, the House or Senate Clerk shall place the bill on the floor calendar. 
+§55. Resolutions by City/Village Councils and Townships
+Eligible Entities. 
+All Michigan townships, cities, and villages recognized in official State or local-government records as of January 1, 2025.
+Thresholds.
+• Statutory bills: resolutions from ≥ 1/3 of eligible entities.
+• Constitutional amendments: resolutions from ≥ 2/5 of eligible entities.
+• Filing window: 270 calendar days.
+Verification & Safeguards.
+• Verified by the Clerk within 30 session days, extendable by 5, with a public audit trail (2). Within 90 days of this amendment’s effective date, the Clerk shall publish verification-capacity and audit-readiness plans on a single public portal maintained jointly by the SOS and the Clerk; weekly status reports shall run during any active filing window. If capacity is exceeded, the Board of State Canvassers assumes primary responsibility within 10 session days.
+• If high volume risks delays, the Clerk may request public emergency verification funding through ordinary public appropriations or emergency administrative procedures, audited publicly within 5 session days. 
+• Fees cover costs, capped at reasonable administrative expenses (3).
+• Challenges capped at 1 per entity, 10 total per bill; frivolous claims dismissed within 5 session days (4).
+• Funding disclosure: All resolution funding (including in-kind and anonymous) disclosed within 72 hours per MCL 169.201; non-disclosure or false reports trigger automatic sanctions under MCL 600.2591, enforceable by the Clerk with expedited Court of Claims review.
+Follows-Intent Clause (Uniform Across Triggers). Resolutions must align with the bill’s core subject, scope, or effect (title, summary, sponsor’s public record), verified by the Clerk (5). Substantive changes pause discharge until re-attested within 5 session days. Clerical changes do not break intent. A 5-day public comment period follows certification.
+Independence. 
+Meeting this section’s thresholds independently compels discharge. Thresholds in other sections are not cumulative for this trigger.
+Bill Identity, Discharge Target, Chamber Sequencing, Calendaring. As in §54.
+§55A. State–Tribal Compact Participation (Opt-In Trigger)
+Sovereign Status. 
+Federally recognized Tribal Nations are sovereigns, not political subdivisions of the State. Participation under this section occurs only by voluntary, government-to-government compact between the State and an individual Tribal Nation.
+Scope. 
+A compact may authorize a Tribal Nation to (a) file advisory resolutions for public posting and transparency only, or (b) opt in to the discharge architecture for identified categories of State legislation, without waiving sovereignty.
+Liaisons & Timelines by Compact. 
+Each §55A compact shall designate government-to-government liaison offices for the State and the compacting Tribal Nation, specify notice and response timelines, and identify verification points of contact for discharge operations. Timelines may mirror existing agency consultation practices where mutually agreed (e.g., 30–45 day notice windows), and must preserve the amendment’s 30 session-day calendaring clock once verification is complete. Compact terms shall also describe how advisory submissions convert to opt-in counting status, if at all, without implied waiver of sovereignty or treaty rights.
+Opt-In Trigger (by Compact). 
+Where a compact expressly provides, a Tribal Nation’s resolution may count toward a separate “Tribal Nation bucket” threshold that independently compels discharge for the identified category. Unless the compact provides otherwise, the threshold for statutory bills is resolutions from ≥ 1⁄3 of compacting Tribal Nations; for constitutional amendments, ≥ 2⁄5 of compacting Tribal Nations. Thresholds under this section are independent and do not combine with §§55–57.
+Verification & Safeguards. 
+Verification proceeds via the Secretary of the Senate/Clerk using compact-designated Tribal and State points of contact with public audit trails. Challenge caps mirror §§54–57. Fees are limited to actual administrative cost. A single public portal maintained jointly by the SOS and the Clerk lists compact parties, designated liaison offices, verification timelines, and receipt logs. Where a compact so provides, funding disclosures that harmonize with §59 shall be posted to the same portal; no compact may require disclosure regimes that infringe Tribal self-government or reveal protected cultural/heritage information. Absent explicit compact terms, Tribal funding details remain outside §59’s public database, and advisory submissions are posted for transparency only.
+No Waiver; No Diminishment. 
+Participation by compact does not waive sovereign immunity, jurisdiction, treaty rights, or cultural/heritage protections, and does not subject internal Tribal governance to State law. Compacts under this section are instruments of coordination for verification and transparency only; they do not expand State jurisdiction or limit inherent Tribal sovereignty.
+Advisory Channel (default). 
+Absent a compact, Tribal Nations may transmit advisory resolutions for public posting under §60. Such advisory resolutions are logged and publicly searchable but do not count toward discharge thresholds.
+Harmonization. 
+Compacts control in case of conflict with this section to the extent permitted by the Michigan Constitution and federal law. This section operates severably from §§55–57.
+§56. Resolutions by School Districts and ISDs
+Eligible Entities. 
+All Michigan school districts and intermediate school districts (ISDs) recognized in official State education records as of January 1, 2025.
+Thresholds.
+• Statutory bills: resolutions from ≥ 1/3 of eligible entities.
+• Constitutional amendments: resolutions from ≥ 2/5 of eligible entities.
+• Filing window: 270 calendar days.
+Verification, Safeguards, Follows Intent, Independence, Bill Identity, Discharge Target, Chamber Sequencing, Calendaring. As in §55, including publication of verification-capacity plans and weekly status reports.
+§57. Resolutions by County Commissions
+Eligible Entities. 
+All Michigan counties recognized in official State records as of January 1, 2025.
+Thresholds.
+• Statutory bills: resolutions from ≥ 1/3 of counties.
+• Constitutional amendments: resolutions from ≥ 2/5 of counties.
+• Filing window: 270 calendar days.
+Verification, Safeguards, Follows Intent, Independence, Bill Identity, Discharge Target, Chamber Sequencing, Calendaring. As in §55.
+§58. Non-Interference and Timelines
+No committee, officer, or authority may delay, block, or refuse to calendar a certified bill. Upon certification under §§54–57, the presiding officer must ensure the bill appears on the floor calendar within 30 session days. If that duty is unmet, the House or Senate Clerk shall, without further vote, place the bill on the floor calendar on the next session day (automatic calendaring). Debate and germane amendments remain permitted, but no rule, motion, or calendar practice may extend or reset the 30-session-day clock. Non-compliance triggers a public Resolution of Non-Compliance within 3 session days, published in the Journal, identifying the missed duty and the officer or body responsible. Courts may issue mandamus for documented failure to calendar a certified bill within 30 session days upon clear and convincing evidence of willful delay. Frivolous challenges or willful delays are subject to sanctions under MCL 600.2591. Nothing in this section compels passage; it compels timely calendaring and a recorded vote within the session.
+§59. Transparency & Uniform Funding Disclosure 
+(Standardized across §§54–57)
+All contributions, including in-kind and anonymous, shall be disclosed within 72 hours in a single, publicly searchable database maintained by the SOS or Clerk, updated daily during active petition or resolution periods. Fees shall cover only actual verification costs and are capped at documented administrative expense, applied uniformly and consistent across §§54–57. Non-disclosure or false reports trigger automatic sanctions under MCL 600.2591, enforceable by SOS or the Clerk with expedited Court of Claims review. 
+§60. Public Access and Transparency
+All petitions, resolutions, and certifications must be publicly posted within 5 session days of filing. The SOS/Clerk shall maintain monthly updated lists of eligible bills, including bill numbers, sponsors, and verification status, with substantive text posted for at least 72 hours (2). SOS/Clerk shall provide free petition/resolution templates and promulgate verification guidelines within 90 days, consistent with this amendment.
+Quick FAQ (public-facing).
+Statutory bills — pick one route: signatures equal to 4% of votes cast in the most recent gubernatorial election, or resolutions from at least 1/3 of the eligible municipal bucket, or 1/3 of the eligible schools/ISDs bucket, or 1/3 of counties → file; vote in about 30 session days.
+Constitutional amendments — pick one route: signatures equal to 8% of votes cast in the most recent gubernatorial election, or resolutions from at least 2/5 of the eligible municipal bucket, or 2/5 of the eligible schools/ISDs bucket, or 2/5 of counties → file; vote in about 30 session days.
+Numerical targets should be recalculated from official election and eligible-entity records before use.
+Follows Intent = matches the bill’s main goal (e.g., education funding stays education-focused), verified in about 5 days.
+Enforcement = automatic calendaring + recorded vote within the session; courts can compel calendaring (mandamus) but cannot compel passage.
+Advisory Channel — Tribal Nations (Default). 
+Any federally recognized Tribal Nation may transmit advisory resolutions for public posting. Advisory submissions are logged, time-stamped, and publicly searchable on the SOS/Clerk portal with their attestation of intent and designated point of contact. Advisory submissions do not count toward discharge thresholds unless and until a government-to-government compact under §55A expressly authorizes opt-in counting for identified categories. The portal shall display, side-by-side, advisory totals and opt-in counting totals (if any) to prevent public confusion.
+§61. Self-Execution, Harmonization, Severability
+Effective upon adoption unless the adopting measure specifies a later date. Rules implementing verification must be promulgated within 90 days, consistent with Article IV, §§16 and 26 (1). Thresholds balance population and geographic diversity, consistent with equal protection principles (8). Judicial review of Follows-Intent determinations is limited to abuse of discretion by the SOS or Clerk (5). If verification provisions are invalidated, the Board of State Canvassers assumes duties (2). Conflicting parliamentary rules are suspended unless a two-thirds vote cites a specific constitutional or statutory conflict, supported by a public legal memorandum (3). Follows Intent is binding (5). Severability ensures each trigger operates independently (6).
+Government-to-Government Consultation. 
+Within 90 days of this amendment’s effective date, the State shall establish rules for good-faith government-to-government consultation with federally recognized Tribal Nations concerning verification procedures and any proposed compacts under §55A. Rules shall be published, respect sovereignty, and include designated liaison offices and timelines.
+No Diminishment. 
+Nothing in this Article diminishes Tribal sovereignty, treaty rights, or federal trust protections. Participation under §55A is voluntary and compact-based.
+Government-to-Government Consultation Rules (Implementation). 
+Within 90 days, the State shall promulgate rules for good-faith government-to-government consultation with federally recognized Tribal Nations concerning verification procedures and any proposed §55A compacts. Rules shall: (a) identify State liaison offices; (b) provide standard notice windows (30–45 days) for consultation absent emergency; (c) describe submission formats and public audit trails; (d) provide an emergency lane for verification capacity requests tied to active filing windows; and (e) reaffirm that participation is voluntary and compact-based. These rules are process analogues and do not diminish sovereignty or expand State jurisdiction.
+Appendix A. Model Resolution for Local Entities
+Resolution to Support Discharge of [Bill Number], [Bill Title], [Session Year]
+WHEREAS, the [City/Village/Township/School District/ISD/County of [Name]] seeks to amplify its constituents’ voice; and
+WHEREAS, [Bill Number], titled “[Bill Title]”, introduced in the [House/Senate] on [Date], with substantive text publicly posted for at least 72 hours (no shell/placeholder bills), addresses [core subject, e.g., education funding], aligning with community interests; and
+WHEREAS, proposed Article IV, §§55–57 would authorize local entities to compel a floor vote;
+NOW, THEREFORE, BE IT RESOLVED that the [Entity] supports discharge of [Bill Number] for a recorded yea/nay vote within 30 session days.
+Attestation of Intent. This resolution aligns with the bill’s core subject, scope, or effect (as evidenced by its title, summary, and sponsor’s public record), verified by the Clerk.
+Submission Instructions.
+• File with the Clerk within 270 calendar days.
+• Include: bill number, title, sponsor, summary, attestation.
+• Fees: capped at reasonable administrative costs (MCL 168.476).
+• Verification: Clerk confirms within 30 session days, extendable by 5 (2).
+• Challenges: capped at 1 per entity, 10 per bill; frivolous claims (lacking new evidence) dismissed within 5 session days (4).
+• Funding disclosure: All support (including in-kind and anonymous) disclosed within 72 hours per MCL 169.201; non-disclosure or false reports trigger automatic sanctions (MCL 600.2591), enforceable by the Clerk with expedited Court of Claims review.
+Citizen Petition Template (for public download).
+“We, the undersigned, request the SOS to compel a recorded yea/nay vote on [Bill Number], ‘[Bill Title],’ introduced on [Date], with substantive text posted for at least 72 hours, aligning with its core subject (e.g., education funding).
+Signature: ________  Date: ________  Address: ________ (optional, per MCL 168.476).
+File with SOS within 270 calendar days.”
+Public Quick FAQ (repeat for handouts).
+• Statutory — pick one route: signatures equal to 4% of votes cast in the most recent gubernatorial election OR resolutions from at least 1/3 of the eligible municipal bucket OR 1/3 of the eligible schools/ISDs bucket OR 1/3 of counties → vote in about 30 session days.
+• Amendment — pick one route: signatures equal to 8% of votes cast in the most recent gubernatorial election OR resolutions from at least 2/5 of the eligible municipal bucket OR 2/5 of the eligible schools/ISDs bucket OR 2/5 of counties → vote in about 30 session days.
+• Numerical targets should be recalculated from official election and eligible-entity records before use.
+• Cost: Verification funded by existing SOS/Clerk resources or public verification funding; audited publicly.
+• Anti-Fraud: Public audit trails + automatic sanctions (MCL 600.2591).
+• Follows Intent: Matches the bill’s main goal; verified in about 5 days.
+Model Resolution — Tribal Nation (Compact-Ready, Optional)
+WHEREAS, the [Tribal Nation] is a sovereign government with inherent powers of self-government and treaty-protected rights; and
+WHEREAS, [Bill Number/Title] has substantive text posted ≥ 72 hours and materially affects [identified category]; and
+WHEREAS, the [Tribal Nation] and the State may enter a government-to-government compact authorizing opt-in participation under §55A;
+NOW, THEREFORE, the [Council/Governing Body] resolves:
+1) Advisory: This resolution shall be transmitted for public posting under §60; and
+2) Compact Authorization (conditional): Upon execution of a §55A compact identifying [categories], this resolution may be counted toward the compact’s opt-in threshold for discharge, without any waiver of sovereignty or treaty rights.
+Attestation: This resolution aligns with the bill’s core subject (Follows-Intent). Verification shall proceed via compact-designated contacts.
+References
+[1] Wolverine Golf Club v. Sec’y of State, 384 Mich. 461 (1971).
+[2] Reproductive Freedom for All v. Bd. of State Canvassers, 510 Mich. 885 (2022).
+[3] Citizens Protecting Mich.’s Const., 503 Mich. 42 (2018).
+[4] Promote the Vote v. Sec’y of State, 492 Mich. 857 (2012).
+[5] Taxpayers United v. Sec’y of State, 466 Mich. 886 (2002).
+[6] Hollingsworth v. Perry, 570 U.S. 693 (2013).
+[7] McGee v. Civil Serv. Bd., 453 Mich. 1 (1996).
+[8] Reynolds v. Sims, 377 U.S. 533 (1964).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AI Use Disclosure
+This artifact was developed with assistance from AI tools for structural review, drafting support, proofreading, organization, source-discipline review, and refinement. The author reviewed, revised, and remains responsible for the final content.
